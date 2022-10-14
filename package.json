@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mapbox/mapbox-sdk": "^0.13.4",
+    "@mapbox/mapbox-sdk": "^0.13.5",
     "connect-flash": "^0.1.1",
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
